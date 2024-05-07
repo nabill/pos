@@ -12,6 +12,9 @@ It should support hardware integration :
 - Kitchen printer
 - Kitchen screens
 - Handheld terminals (mobile version)
+- Cashier
+- Barcode scanners
+- Mobile barcode scanners
 
 ### 1. Features inspiration
 
