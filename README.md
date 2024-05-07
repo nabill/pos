@@ -1,5 +1,7 @@
 # POS
 
+https://images-cdn4.welcomesoftware.com/Zz03Y2E0MjZmNDdjN2ExMWVlOTBmM2Q2NmE3NTNjYTJmYg==?width=1168&height=780![image](https://github.com/nabill/pos/assets/4624394/8c318206-04ee-4146-8029-9ff3563aaa93)
+
 Create a POS system with .NET MAUI that can be installed on retails, coffees, restaurants, spa,...
 
 It should support hardware integration : 
