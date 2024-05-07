@@ -13,6 +13,6 @@ It should support hardware integration :
 - Kitchen screens
 - Handheld terminals (mobile version)
 
-## 1. Features inspiration
+### 1. Features inspiration
 
-## 2. Design inspiration
+### 2. Design inspiration
